@@ -1,0 +1,2 @@
+C:\Users\Nando\ionic\myapp\platforms\android\build\intermediates\classes\debug
+C:\Users\Nando\ionic\myapp\platforms\android\build\intermediates\pre-dexed\debug\classes-6c4feb2869f3de27a5c859ef1434ae52b4201d19.jar

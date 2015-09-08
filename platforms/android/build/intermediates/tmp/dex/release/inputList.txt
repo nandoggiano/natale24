@@ -1,0 +1,2 @@
+C:\Users\Nando\ionic\myapp\platforms\android\build\intermediates\classes\release
+C:\Users\Nando\ionic\myapp\platforms\android\build\intermediates\pre-dexed\release\classes-e9b32a5a082976048ade9ba75c580b16a5dd49f7.jar

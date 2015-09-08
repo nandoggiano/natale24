@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Nando\ionic\myapp\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f164d31938476a038dfb78d2a4494c0caea3f7cd">
+        <dex dex="C:\Users\Nando\ionic\myapp\platforms\android\build\intermediates\pre-dexed\debug\classes-6c4feb2869f3de27a5c859ef1434ae52b4201d19.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nando\ionic\myapp\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\release\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="14573df864bfbd7e087580d0bcc0a13d537a0dee">
+        <dex dex="C:\Users\Nando\ionic\myapp\platforms\android\build\intermediates\pre-dexed\release\classes-e9b32a5a082976048ade9ba75c580b16a5dd49f7.jar" />
+    </item>
+
+</items>

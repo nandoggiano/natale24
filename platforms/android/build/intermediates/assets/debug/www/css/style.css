@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.col img {width:100%;}
+.logo {width:100%;}
+.row .col span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    z-index: 1;
+    position: absolute;
+    font-weight: bold;
+}
