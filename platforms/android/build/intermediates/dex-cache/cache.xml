@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\nando\ionic\natale24\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\release\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4e301a01b91b290b4d09b140a9739e61edb797fe">
+        <dex dex="C:\Users\nando\ionic\natale24\platforms\android\build\intermediates\pre-dexed\release\classes-96b5d0f4edc742e9117752390b8fbfd8213b41ea.jar" />
+    </item>
+    <item
         jar="C:\Users\nando\ionic\natale24\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
         jumboMode="false"
         revision="23.0.1"

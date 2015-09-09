@@ -1,11 +1,21 @@
 /* Empty. Add your own CSS if you like */
-.col img {width:100%;}
 .logo {width:100%;}
-.row .col span {
+.palla {width:25%;float:left;}
+.palla img {width:100%;}
+.palla span {
     display: inline-block;
     vertical-align: middle;
     line-height: normal;
     z-index: 1;
     position: absolute;
     font-weight: bold;
+}
+@media only screen and (min-width: 500px) {
+	.palla {width:16.66%;}
+}
+@media only screen and (min-width: 1000px) {
+	.palla {width:12.5%;}
+}
+@media only screen and (min-width: 1500px) {
+	.palla {width:8.33%;}
 }
