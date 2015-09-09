@@ -95,6 +95,12 @@ angular.module('starter', ['ionic', 'firebase', 'angularMoment', 'starter.contro
         controller: 'PalleDiNataleCtrl'
     })
 
+    .state('gioco', {
+        url: '/gioco/:num',
+        templateUrl: 'templates/gioco.html',
+        controller: 'GiocoCtrl'
+    })
+
     // if none of the above states are matched, use this as the fallback
     $urlRouterProvider.otherwise('/login');
 

@@ -26,6 +26,9 @@
     <feature name="EmailComposer">
         <param name="android-package" value="de.appplant.cordova.emailcomposer.EmailComposer" />
     </feature>
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
     <preference name="AndroidPersistentFileLocation" value="Internal" />
     <name>myapp</name>
     <description>
@@ -43,4 +46,4 @@
     <preference name="BackupWebStorage" value="none" />
     <preference name="AutoHideSplashScreen" value="false" />
 </widget>
-<!-- From: file:/C:/Users/Nando/ionic/myapp/platforms/android/res/xml/config.xml -->
+<!-- From: file:/C:/Users/nando/ionic/natale24/platforms/android/res/xml/config.xml -->

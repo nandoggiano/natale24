@@ -221,6 +221,14 @@ module.exports = [
             "cordova.plugins.email",
             "plugin.email"
         ]
+    },
+    {
+        "file": "plugins/cordova-plugin-inappbrowser/www/inappbrowser.js",
+        "id": "cordova-plugin-inappbrowser.inappbrowser",
+        "clobbers": [
+            "cordova.InAppBrowser.open",
+            "window.open"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -233,7 +241,8 @@ module.exports.metadata =
     "cordova-plugin-whitelist": "1.0.0",
     "cordova-plugin-camera": "1.2.0",
     "cordova-plugin-file": "3.0.0",
-    "de.appplant.cordova.plugin.email-composer": "0.8.3dev"
+    "de.appplant.cordova.plugin.email-composer": "0.8.3dev",
+    "cordova-plugin-inappbrowser": "1.0.2-dev"
 }
 // BOTTOM OF METADATA
 });
